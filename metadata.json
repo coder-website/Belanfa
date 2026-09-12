@@ -1,0 +1,10 @@
+{
+  "name": "Restaurant Belanfa",
+  "description": "Site officiel et application web du Restaurant Belanfa à Casablanca (26 Rue Driss Lahrizi). Terrasse, cheminée, grillades au charbon, livraison exclusive Casablanca (2-3 km max), réservation en ligne et espace gérant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

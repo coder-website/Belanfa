@@ -1,0 +1,16 @@
+[
+  {
+    "id": "res-1789241788991",
+    "code": "BLF-5362",
+    "date": "2026-09-12",
+    "time": "20:00",
+    "guests": 2,
+    "seatingZone": "cheminee",
+    "customerName": "rayane",
+    "customerPhone": "0775623782",
+    "customerEmail": "",
+    "specialRequests": "",
+    "status": "confirmee",
+    "createdAt": "2026-09-12T19:36:29.174Z"
+  }
+]
